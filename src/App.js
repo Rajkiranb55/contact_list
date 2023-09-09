@@ -33,7 +33,7 @@ function App() {
         <Nav />
         <Routes>
           <Route path="/add" element={<AddContact />}></Route>
-          <Route exact path="/contact_list" element={<HomePage />}></Route>
+          <Route exact path="/" element={<HomePage />}></Route>
           <Route path="/edit/:id" element={<EditContact />}></Route>
         </Routes>
       </div>
