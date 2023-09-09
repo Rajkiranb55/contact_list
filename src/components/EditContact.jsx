@@ -57,7 +57,7 @@ const EditContact = () => {
 
     dispatch({ type: "UPDATE_CONTACT", payload: data });
     toast.success("Contact updated successfully!!");
-    navigate("/contact_list");
+    navigate("/");
   };
 
   return (

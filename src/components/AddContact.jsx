@@ -44,7 +44,7 @@ const AddContact = () => {
 
     dispatch({ type: "ADD_CONTACT", payload: data });
     toast.success("Contact added successfully!!");
-    navigate("/contact_list");
+    navigate("/");
   };
 
   return (
