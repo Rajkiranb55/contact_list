@@ -7,7 +7,7 @@ const Nav = () => {
       <div className="container-fluid">
         <div className="navbar-header">
           <a className="navbar-brand" href="#">
-            CN Contact List
+            Ring Book
           </a>
         </div>
       </div>
