@@ -1,4 +1,4 @@
-# Contact List
+# Ring Book
 
 A React Contact List App that allows user to add,update and delete contacts.
 
